@@ -6,4 +6,6 @@ Used components that are easily reusable in other projects such as Card, Card Li
 
 Uses REST API to dynamically return information and images in their own card on render.
 
-## Not Mobile Friendly
+https://mike-huffman.github.io/monsters-rolodex/
+
+<strong>Not Mobile Friendly</strong>
